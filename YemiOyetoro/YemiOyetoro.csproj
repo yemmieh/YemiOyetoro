@@ -558,6 +558,12 @@
     <None Include="Project_Readme.html" />
     <Content Include="Content\Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yemi.Data\Yemi.Data.csproj">
+      <Project>{7dbe93f8-c1c6-42dc-b40b-49d0a411e64c}</Project>
+      <Name>Yemi.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

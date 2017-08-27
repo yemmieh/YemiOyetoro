@@ -1,0 +1,7 @@
+C:\Users\YEMI\Documents\Visual Studio 2015\Projects\YemiOyetoro\Yemi.Data\obj\Debug\Yemi.Data.csprojResolveAssemblyReference.cache
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\bin\Debug\Yemi.Data.dll
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\bin\Debug\Yemi.Data.pdb
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\bin\Debug\RestSharp.dll
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\bin\Debug\RestSharp.xml
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\obj\Debug\Yemi.Data.dll
+C:\Users\YEMI\documents\visual studio 2015\Projects\YemiOyetoro\Yemi.Data\obj\Debug\Yemi.Data.pdb

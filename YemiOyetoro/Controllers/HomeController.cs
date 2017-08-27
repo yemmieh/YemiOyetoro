@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Yemi.Data;
 
 namespace YemiOyetoro.Controllers
 {
@@ -10,7 +11,9 @@ namespace YemiOyetoro.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            RestsharpTest b = new RestsharpTest();
+          List<State> c =  b.getState("usa");
+            return View(c);
         }
 
         public ActionResult About()
